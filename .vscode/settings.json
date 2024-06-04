@@ -1,0 +1,7 @@
+{
+    "livePreview.customExternalBrowser": "Firefox",
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    }
+}

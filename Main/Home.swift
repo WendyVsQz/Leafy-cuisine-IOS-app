@@ -2,8 +2,10 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("My recipes")
-        .navigationTitle("My recipes")
+        NavigationView {
+            Text("My recipes")
+            .navigationTitle("My recipes")
+        }
     }
 }
 
